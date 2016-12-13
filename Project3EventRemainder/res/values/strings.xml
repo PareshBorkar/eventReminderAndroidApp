@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Project3EventRemainder</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    
+     <string name="date">DATE</string>
+     <string name="alert_time">ALERT TIME</string>
+     <string name="event_descript">ADD EVENT DISCRIPTION</string>
+     <string name="done">DONE</string>
+     <string name="event_tittle">ADD EVENT TITLE</string>
+      <string name="select_date">SELECT DATE:</string>
+
+</resources>
